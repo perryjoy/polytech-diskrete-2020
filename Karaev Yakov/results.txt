@@ -1,0 +1,45 @@
+Base=2, Count=2		00	01
+Base=2, Count=3		000	011
+Base=2, Count=4		0000	0111	1001
+Base=2, Count=5		00000	01111	10101
+Base=2, Count=6		000000	011111	101101	110001
+Base=3, Count=2		00
+Base=3, Count=3		000
+Base=3, Count=4		0000
+Base=3, Count=5		00000	20211
+Base=3, Count=6		000000
+Base=4, Count=2		00
+Base=4, Count=3		000	132
+Base=4, Count=4		0000	3021
+Base=4, Count=5		00000
+Base=4, Count=6		000000	213312	310221	330201
+Base=5, Count=2		00	13
+Base=5, Count=3		000
+Base=5, Count=4		0000	3032
+Base=5, Count=5		00000
+Base=5, Count=6		000000
+Base=6, Count=2		00
+Base=6, Count=3		000	253
+Base=6, Count=4		0000
+Base=6, Count=5		00000	41532
+Base=6, Count=6		000000	325523	420432	530421
+Base=7, Count=2		00
+Base=7, Count=3		000
+Base=7, Count=4		0000
+Base=7, Count=5		00000
+Base=7, Count=6		000000
+Base=8, Count=2		00	25
+Base=8, Count=3		000	374
+Base=8, Count=4		0000
+Base=8, Count=5		00000
+Base=8, Count=6		000000	437734	640632
+Base=9, Count=2		00
+Base=9, Count=3		000
+Base=9, Count=4		0000
+Base=9, Count=5		00000	62853
+Base=9, Count=6		000000
+Base=10, Count=2		00
+Base=10, Count=3		000	495
+Base=10, Count=4		0000	6174
+Base=10, Count=5		00000
+Base=10, Count=6		000000	549945	631764
